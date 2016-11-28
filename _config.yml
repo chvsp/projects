@@ -1,0 +1,15 @@
+# # Site settings
+# title: Modern Blog
+# description: Modern-Blog A Elegant template for Jekyll
+# keywords: Modern, Blogging, Fun
+# author: Wferr
+# baseurl: '/projects' # the subpath of your site, e.g. /blog/
+# url: 'chvsp.github.io' # the base hostname & protocol for your site
+# Site settings
+title: Praveen Ch 
+description: 'Deep Learning Enthusiast - Teaching Machines Since 2016' 
+url: 'http://chvsp.github.io'
+baseurl: '/projects'
+# google_analytics: 'UA-XXXXXX-X'
+# disqus_shortname: 'your-disqus-name'
+
